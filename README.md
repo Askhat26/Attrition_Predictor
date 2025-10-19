@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Hyperparameter Tuning
 - Automatic Data Augmentation
 - Docker Image Creation Script
-- CI/CD Workflow (GitHub Actions to Amazon ECR to Amazon EC2)
+- CI/CD Workflow (GitHub Actions)
 - Reverse Proxy Setup for HTTPS Requests
 - SSL & TLS Certificates
 
